@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sound"/>
+    <qresource prefix="/sounds">
+        <file>keyboard_music.wav</file>
+        <file>background_music.mp3</file>
+    </qresource>
+</RCC>
